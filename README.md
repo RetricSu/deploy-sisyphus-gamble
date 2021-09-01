@@ -1,3 +1,9 @@
+## install
+
+```sh
+  yarn
+```
+
 ## Compile contract
 
 ```sh
@@ -5,8 +11,6 @@
 ```
 
 ## Depoly contract
-
-deploy to godwoken-polyjuice chain using truffle and `@polyjuice-provider/truffle`.
 
 first, set a `.env` file:
 
