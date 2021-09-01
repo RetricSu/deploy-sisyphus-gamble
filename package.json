@@ -13,8 +13,9 @@
     "deploy:rinkeby": "truffle migrate --network rinkeby"
   },
   "dependencies": {
-    "@polyjuice-provider/truffle": "0.0.1-rc6",
-    "@polyjuice-provider/web3": "^0.0.1-rc6",
+    "@openzeppelin/contracts": "^4.3.1",
+    "@polyjuice-provider/truffle": "0.0.1-rc9",
+    "@polyjuice-provider/web3": "^0.0.1-rc9",
     "dotenv": "^10.0.0"
   },
   "devDependencies": {
