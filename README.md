@@ -1,7 +1,3 @@
-# simple test contract
-
-SimpleStorageV2 is a truffle project that contains simple test ethereum smart-contract for [polyjuice-provider](https://github.com/nervosnetwork/polyjuice-provider) used on Godwoken-Polyjuice chain.
-
 ## Compile contract
 
 ```sh
